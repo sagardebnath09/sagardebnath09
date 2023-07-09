@@ -1,14 +1,14 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6ZZHuns-ra6qXugYhDCL8KrlOdpFLNlTAfc0UE9n48b7N-BWfRO4Ex0uCvT2ydIacdZPZLtAElzhj_d79-Aunwv92r0INgvjH_PDLfeWzs7j4ZfVbMshwYW9lOemdUQz8nr0YE3L-MDyggFpnB4_UDBpUyQcsDH_yQ6Mrcn8t_vQiYSUFBhIiS2S/s1600/Android-IO22AndroidDevRecap_Header.png)]
+![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1) 
 <h1 align="center">Hi 👋, I'm Sagar Debnath</h1>
-<h3 align="center">A passionate Android app developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagardebnath09&label=Profile%20views&color=0e75b6&style=flat" alt="sagardebnath09" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Node.js**
+- 🌱 I’m currently learning **React, Node.js**
 
-- 💬 Ask me about **Android, Data Structure**
+- 💬 Ask me about **Web Development, Data Structure**
 
 - 📫 How to reach me **sagardebnathmail@gmail.com**
 
